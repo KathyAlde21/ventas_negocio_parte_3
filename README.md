@@ -68,7 +68,7 @@ VALUES
 **<h3>📁 Estructura del Proyecto:</h3>**
 
 ```
-📁ventas_negocio_2
+📁ventas_negocio_parte_3
 └── README.md
 └── 📁img
 │    ├── 📁wireframes
